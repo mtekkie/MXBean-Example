@@ -15,7 +15,7 @@ This is an example application that exposes an simple MXBean. Nothing fancy.
 To test the MXBean the JConsole is an excellent tool.
 
 - Fire it up and connect to the local process.
-![ Shows Jconsoles select instance page ](jc-ss1.png =200x "Jconsole - Ugly but useful! our motto since 1984")
+![ Shows Jconsoles select instance page ](jc-ss1.png  "Jconsole - Ugly but useful! our motto since 1984")
 
 - Navigate to MBeans.
 ![ Shows the MBean page ](jc-ss2.png "Jconsole - Ugly but useful! our motto since 1984")
