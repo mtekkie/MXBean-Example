@@ -53,8 +53,7 @@ Our MXbean has now been registered and we can browse the attributes and execute 
 
   ![ Shows Queuelenght property of our MXBean ](jc-ss3.png "Jconsole - Ugly but useful! our motto since 1984")
 
-
-  ### More information
+### More information
   Check out these, more in-depth resources with more advanced examples.
 
 - https://docs.oracle.com/javase/tutorial/jmx/mbeans/mxbeans.html
