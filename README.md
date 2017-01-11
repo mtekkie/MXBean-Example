@@ -45,14 +45,14 @@ Fire it up and connect to the local process.
 
 Navigate to MBeans.
 
+Our EJB's startup has not finished just yet. Our MXBean has not been registered with the MBEan Server.
+
 ![ Shows the MBean page ](jc-ss2.png "Jconsole - Ugly but useful! our motto since 1984")
 
-  Our EJB's startup has not finished just yet. Our MXBean has not been registered with the MBEan Server.
-
+Our MXbean has now been registered and we can browse the attributes and execute operations.
 
   ![ Shows Queuelenght property of our MXBean ](jc-ss3.png "Jconsole - Ugly but useful! our motto since 1984")
 
-Our MXbean has now been registered and we can browse the attributes and execute operations.
 
   ### More information
   Check out these, more in-depth resources with more advanced examples.
